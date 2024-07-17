@@ -2,7 +2,7 @@
 
 This is a Streamlit application that provides personalized course recommendations based on user preferences. The app allows users to select courses they have audited or completed, trains a recommendation model, and generates recommendations for new courses.
 
-
+https://github.com/user-attachments/assets/63d0e067-6355-46d1-9cbf-a97fc055eb19
 
 ## **Features**
 

@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/63d0e067-6355-46d1-9cbf-a97fc055eb19
 
 ## **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/muhammadadilnaeem/Course-Recommender-App/blob/main/LICENSE).
 
 ## **Contact**
 

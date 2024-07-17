@@ -85,6 +85,6 @@ This project is licensed under the MIT License.
 
 ## **Contact**
 
-For any issues or feature requests, please open an issue on this repository or contact me directly at your.email@example.com.
+For any issues or feature requests, please open an issue on this repository or contact me directly at madilnaeem0@gmail.com.
 
 ---
